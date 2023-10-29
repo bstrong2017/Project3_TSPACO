@@ -48,9 +48,18 @@ Which (simple) experiments have you run to observe the impact of different desig
 
 One experiment I implemented when creating the Ant Colony optimization problem was tracing the carnival ACO pseudocode. Before writing my own solution, I wanted to understand how the ants would be involved in the TSP program. After reading through the text, it was my understanding that the ACO problem utilized many functions and techniques that the genetic algorithm implemented such as using a roulette to randomize data, heuristic value, initializing a best solution, creating stopping criteria, etc. As Swarm Intelligence is essentially a Evolutionary algorithm, there are a lot of shared details when creating the algorithm. 
 
+# Solution + Graphs 
 
 <a href="https://ibb.co/nMfF93F"><img src="https://i.ibb.co/3mWn2fn/Screenshot-2023-10-24-at-5-14-18-PM.png" alt="Screenshot-2023-10-24-at-5-14-18-PM" border="0"></a>
 
 <a href="https://ibb.co/D7cV6SW"><img src="https://i.ibb.co/THjvnF2/Screenshot-2023-10-24-at-5-14-01-PM.png" alt="Screenshot-2023-10-24-at-5-14-01-PM" border="0"></a>
+
+# Citations
+
+Hurbans, Rishal, Grokking Artificial Intelligence Algorithms. Manning Shelter Island, 2020. 
+
+Hurbans, Rishal, (2020). Grokking Artificial Intelligence Algorithms, Ch06- swarm_intelligence_ants. GitHub. https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence- Algorithms.git 
+
+
 
 
